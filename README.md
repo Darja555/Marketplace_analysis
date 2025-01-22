@@ -10,3 +10,7 @@ expressions
 6. Utilizing Power BI features (groups, hierarchies, filters,
 cross-filtering, tooltips, detail pages, content switching, etc.).
 content switching, etc.).
+![Image 1](https://github.com/Darja555/Marketplace_analysis/blob/main/1.PNG)
+![Image 2](https://github.com/Darja555/Marketplace_analysis/blob/main/2.PNG)
+![Image 3](https://github.com/Darja555/Marketplace_analysis/blob/main/3.PNG)
+![Image 4](https://github.com/Darja555/Marketplace_analysis/blob/main/4.PNG)
