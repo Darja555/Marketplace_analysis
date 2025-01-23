@@ -17,3 +17,4 @@ content switching, etc.).
 ![Image 3](https://github.com/Darja555/Marketplace_analysis/blob/main/3.PNG)
 
 ![Image 4](https://github.com/Darja555/Marketplace_analysis/blob/main/4.PNG)
+
